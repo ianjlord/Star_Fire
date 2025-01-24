@@ -1,12 +1,12 @@
 {
   "name": "STAR ⭐ FIRE 🔥",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "A whatsaap bot scripted by Ian Joel,that is simple and versatile.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --STAR ⭐ FIRE 🔥",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "stop": "pm2 stop STAR ⭐ FIRE 🔥",
+    "restart": "pm2 restart 	STAR ⭐ FIRE 🔥"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
